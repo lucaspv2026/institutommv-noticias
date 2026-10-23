@@ -1,6 +1,26 @@
 {
-  "atualizado_em": "2026-10-23T08:00:00-03:00",
+  "atualizado_em": "2026-10-23T08:02:10-03:00",
   "noticias": [
+    {
+      "id": "2026-10-23-mei-lc-238-limite",
+      "data": "2026-10-21",
+      "publicado": "2026-10-23T08:02:10-03:00",
+      "area": "Negócios · Tributação",
+      "titulo": "Lei Complementar 238 eleva teto do MEI para R$ 110 mil em 2027 e perdoa dívidas federais da categoria",
+      "resumo": "Foi sancionada e publicada em 21 de outubro a Lei Complementar 238/2026, que amplia o limite de faturamento do microempreendedor individual de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028, e permite até dois empregados. A lei concede remissão dos débitos federais de MEIs constituídos até 13 de outubro de 2026, inclusive parcelados ou ajuizados, condicionada ao pagamento em dia do DAS nos seis meses seguintes à vigência; o governo estima mais de R$ 18,7 bilhões perdoados. O texto também eleva para R$ 130.984,20 o limite das licitações exclusivas para micro e pequenas empresas, e a maior parte das regras vale a partir de 1º de janeiro de 2027.",
+      "fonte": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/sancionada-lei-que-perdoa-divida-e-aumenta-limite-de-mei"
+    },
+    {
+      "id": "2026-10-23-arrecadacao-setembro",
+      "data": "2026-10-22",
+      "publicado": "2026-10-23T08:02:10-03:00",
+      "area": "Economia · Tributação",
+      "titulo": "Arrecadação federal soma R$ 239,4 bilhões em setembro, alta real de 5,62%",
+      "resumo": "A Receita Federal informou que a arrecadação de tributos federais chegou a R$ 239,4 bilhões em setembro, crescimento real de 5,62% sobre o mesmo mês de 2025. No acumulado de janeiro a setembro, o total soma R$ 2,351 trilhões, alta real de 6,97%. Entre os fatores citados estão a reoneração escalonada da folha, o avanço de 21,07% nos tributos sobre importação e o aumento do IR retido sobre rendimentos de capital, inclusive pela tributação de dividendos — sinal de carga crescente sobre empresas e investidores.",
+      "fonte": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/arrecadacao-federal-cresce-562-em-setembro-e-soma-r-2394-bilhoes"
+    },
     {
       "id": "2026-10-23-cbs-2027-aliquota",
       "data": "2026-10-22",
