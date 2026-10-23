@@ -1,0 +1,50 @@
+{
+  "atualizado_em": "2026-10-23T08:00:00-03:00",
+  "noticias": [
+    {
+      "id": "2026-10-23-cbs-2027-aliquota",
+      "data": "2026-10-22",
+      "area": "Tributação",
+      "titulo": "CBS começa a ser cobrada em 1º de janeiro de 2027; alíquota depende de TCU e Senado",
+      "resumo": "A Contribuição sobre Bens e Serviços substitui PIS, Cofins e IPI a partir de 2027. A Receita Federal enviou ao TCU, em setembro, o cálculo da alíquota; o Tribunal tem até o fim de outubro para aprová-lo e encaminhá-lo ao Senado, que deve fixar a alíquota oficial por resolução até 15 de dezembro. O governo também deve enviar ao Congresso, nos próximos dias, o projeto com as alíquotas do Imposto Seletivo.",
+      "fonte": "Agência Câmara (reproduzido por Tribuna do Agreste)",
+      "url": "https://www.tribunadoagreste.com.br/geral/2026/10/22/1003031-cbs-sera-implementada-em-2027-com-novas-regulamentacoes"
+    },
+    {
+      "id": "2026-10-23-stf-adi-7324",
+      "data": "2026-10-22",
+      "area": "Tributação · Regulação",
+      "titulo": "STF mantém prazo de dez anos para devolução aos consumidores de créditos da “tese do século” na conta de luz",
+      "resumo": "No julgamento dos embargos de declaração na ADI 7.324, o Plenário manteve os critérios fixados em 2025: as distribuidoras têm dez anos para repassar aos consumidores os valores recuperados com a exclusão do ICMS da base do PIS/Cofins, contados do recebimento dos valores ou da homologação definitiva da compensação. A Corte esclareceu que a decisão não reabre a contagem. Relator: Min. Alexandre de Moraes; vencidos os Ministros André Mendonça e Luiz Fux.",
+      "fonte": "Consultor Jurídico",
+      "url": "https://conjur.com.br/2026-out-22/stf-reafirma-prazo-para-devolucao-de-tributos-na-conta-de-luz/"
+    },
+    {
+      "id": "2026-10-23-cvm-247-scr",
+      "data": "2026-10-02",
+      "area": "Governança e Mercado de Capitais",
+      "titulo": "CVM obriga securitizadoras e fundos a informar operações de crédito ao SCR do Banco Central",
+      "resumo": "A Resolução CVM 247 altera as Resoluções CVM 60 e 175 e passa a exigir o envio mensal, ao Sistema de Informações de Créditos (SCR), dos dados das operações de crédito, em até nove dias úteis após o fim de cada mês. As entidades deverão indicar responsável pelas remessas, guardar as autorizações dos tomadores por cinco anos e ficam sujeitas a multa diária por atraso. A norma vigora a partir de 1º de novembro de 2026, com prazo de adaptação até 31 de outubro de 2027 para quem já é registrado na CVM.",
+      "fonte": "CVM",
+      "url": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol247.htm"
+    },
+    {
+      "id": "2026-10-23-credito-rural-cpr",
+      "data": "2026-10-09",
+      "area": "Agronegócio",
+      "titulo": "Crédito rural da agricultura empresarial soma R$ 107,1 bilhões no 1º trimestre da safra 2026/27; CPR lidera",
+      "resumo": "Segundo o Ministério da Agricultura, de julho a setembro foram contratados R$ 107,1 bilhões, com destaque para a Cédula de Produto Rural (R$ 50,3 bilhões, 46,9% do total) e para o custeio convencional (R$ 36,4 bilhões). O Sul concentrou R$ 18,6 bilhões. Dos R$ 97,6 bilhões em recursos equalizáveis programados para a safra, R$ 20,4 bilhões já foram concedidos.",
+      "fonte": "Canal Rural, com dados do Mapa",
+      "url": "https://www.canalrural.com.br/economia/credito-rural-da-agricultura-empresarial-soma-r-1071-bilhoes-no-inicio-da-safra-2026-2027/"
+    },
+    {
+      "id": "2026-10-23-receita-86-notas-cbs",
+      "data": "2026-10-09",
+      "area": "Tributação",
+      "titulo": "Receita: 86% das notas fiscais de empresas obrigadas já destacam a CBS",
+      "resumo": "Dados do painel do Registro de Operações de Consumo mostram que, dos cerca de 4,3 bilhões de documentos emitidos em 30 dias, 3,7 bilhões trouxeram a CBS destacada. Entre as 1,27 milhão de empresas obrigadas, cerca de 67% destacaram o tributo em todas ou em parte das notas. Empresas do Simples Nacional estão dispensadas em 2026 e não entram na conta.",
+      "fonte": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/reforma-tributaria-86-das-notas-fiscais-destacam-cbs"
+    }
+  ]
+}
