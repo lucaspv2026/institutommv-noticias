@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-10-23T08:02:10-03:00",
+  "atualizado_em": "2026-10-24T08:12:00-03:00",
   "noticias": [
+    {
+      "id": "2026-10-24-stf-iss-pis-cofins",
+      "data": "2026-10-21",
+      "publicado": "2026-10-24T08:12:00-03:00",
+      "area": "Tributação",
+      "titulo": "STF decide, por 6 a 5, que o ISS não integra a base de cálculo do PIS e da Cofins",
+      "resumo": "O Supremo Tribunal Federal concluiu em 21 de outubro o julgamento do Tema 118 da repercussão geral (RE 592.616) e excluiu o ISS da base de cálculo do PIS e da Cofins. Pela tese fixada, o valor do imposto municipal é ingresso que apenas transita pelo caixa da empresa, sem se incorporar ao seu patrimônio, na linha do que o STF já havia decidido para o ICMS. A modulação dos efeitos não foi definida e poderá ser examinada em eventuais embargos de declaração, ponto decisivo para o alcance da recuperação de valores pelas prestadoras de serviços.",
+      "fonte": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-decide-que-iss-nao-integra-base-de-calculo-do-pis-e-da-cofins/"
+    },
+    {
+      "id": "2026-10-24-receita-nano-mei-obrigacoes",
+      "data": "2026-10-23",
+      "publicado": "2026-10-24T08:12:00-03:00",
+      "area": "Tributação · Negócios",
+      "titulo": "Decreto dispensa nanoempreendedores de CNPJ e de nota fiscal eletrônica para IBS e CBS",
+      "resumo": "Nanoempreendedores ficam dispensados de inscrição no CNPJ e de emitir documentos fiscais eletrônicos relativos aos novos tributos sobre o consumo, segundo a Receita Federal. As medidas constam do Decreto nº 13.140/2026 e da Resolução CGSN nº 195/2026. Para os MEIs, a DASN-Simei poderá ser usada como documento fiscal eletrônico nas vendas a consumidor final pessoa física, o que reduz o custo de conformidade dos pequenos negócios na transição da Reforma Tributária.",
+      "fonte": "Receita Federal",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/novas-medidas-simplificam-obrigacoes-da-reforma-tributaria-para-nanoempreendedores-e-meis"
+    },
+    {
+      "id": "2026-10-24-ipca15-outubro",
+      "data": "2026-10-23",
+      "publicado": "2026-10-24T08:12:00-03:00",
+      "area": "Economia",
+      "titulo": "Prévia da inflação sobe 0,32% em outubro e fica abaixo do esperado pelo mercado",
+      "resumo": "O IPCA-15 de outubro, divulgado pelo IBGE em 23 de outubro, subiu 0,32%, abaixo da projeção de 0,43% apurada pela Reuters. No ano, o índice acumula 4,15%, e em 12 meses, 4,62%. Alimentação e bebidas (0,88%) teve o maior impacto, enquanto habitação recuou 0,10% com a bandeira tarifária verde na energia elétrica; os combustíveis aceleraram para 1,20%.",
+      "fonte": "InfoMoney (dados do IBGE)",
+      "url": "https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-outubro-2026/"
+    },
     {
       "id": "2026-10-23-mei-lc-238-limite",
       "data": "2026-10-21",
