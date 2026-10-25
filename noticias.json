@@ -1,6 +1,26 @@
 {
-  "atualizado_em": "2026-10-24T08:12:00-03:00",
+  "atualizado_em": "2026-10-25T08:02:00-03:00",
   "noticias": [
+    {
+      "id": "2026-10-25-bc-ofertas-credito-pix",
+      "data": "2026-10-23",
+      "publicado": "2026-10-25T08:02:00-03:00",
+      "area": "Regulação",
+      "titulo": "Banco Central aprova regras para ofertas de crédito, painel de dívidas e crédito no Pix",
+      "resumo": "O Banco Central aprovou três resoluções que mudam a forma como bancos e demais instituições oferecem crédito aos clientes. A Resolução BCB 602 regula ofertas ativas e exige um mecanismo para o consumidor bloquear esse tipo de publicidade, com autorização prévia para clientes em situação de maior vulnerabilidade financeira; vale a partir de 31 de março de 2027. A Resolução BCB 601 cria o Painel de Dívidas Consolidadas, com simulações de custo, e a 603 exige consentimento prévio e intervalo mínimo de 24 horas para ofertas de crédito na iniciação de pagamentos pelo Pix, ambas a partir de 1º de julho de 2027. As instituições terão de adaptar sistemas, canais de venda e processos de oferta até esses prazos.",
+      "fonte": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/bc-reforca-regras-de-protecao-ao-consumidor-nas-ofertas-de-credito"
+    },
+    {
+      "id": "2026-10-25-dolar-abaixo-5-ibovespa",
+      "data": "2026-10-23",
+      "publicado": "2026-10-25T08:02:00-03:00",
+      "area": "Economia · Mercado de Capitais",
+      "titulo": "Dólar fecha a semana abaixo de R$ 5 e Ibovespa acumula alta de 10% em outubro",
+      "resumo": "O dólar comercial encerrou a sexta-feira (23) cotado a R$ 4,993, queda de 0,92% no dia e de 1,58% na semana, o menor nível desde 9 de outubro. O Ibovespa subiu 0,47%, aos 205.082 pontos, e acumula valorização de 10,06% no mês e de 27,28% em 2026. Ações de petroleiras e mineradoras lideraram os ganhos, com o petróleo Brent em alta de 3,13%, a US$ 116,72, por tensões no Oriente Médio. Para importadores e empresas endividadas em moeda estrangeira, o câmbio abaixo de R$ 5 alivia custos, enquanto a alta do petróleo pressiona combustíveis e fretes.",
+      "fonte": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-abaixo-de-r-5-e-recua-158-na-semana"
+    },
     {
       "id": "2026-10-24-stf-iss-pis-cofins",
       "data": "2026-10-21",
