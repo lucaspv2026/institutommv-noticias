@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-10-25T08:02:00-03:00",
+  "atualizado_em": "2026-10-26T10:49:00-03:00",
   "noticias": [
+    {
+      "id": "2026-10-26-focus-ipca-selic-2027-contas-externas",
+      "data": "2026-10-26",
+      "publicado": "2026-10-26T10:49:00-03:00",
+      "area": "Economia",
+      "titulo": "Focus corta inflação e juros esperados para 2027; investimento estrangeiro supera projeção em setembro",
+      "resumo": "Os economistas consultados pelo Banco Central passaram a prever IPCA de 5,19% em 2026 e Selic de 11,75% no fim de 2027, sinal de crédito um pouco mais barato no horizonte das empresas. Na mesma pesquisa, a expectativa para o dólar no fim de 2026 caiu de R$ 5,13 para R$ 5,05, e a de crescimento do PIB recuou de 1,83% para 1,80%; os juros de 2026 seguem em 13,25%. Também nesta segunda, o BC informou déficit de US$ 5,1 bilhões nas transações correntes de setembro, enquanto o investimento direto no país somou US$ 11,3 bilhões, bem acima dos cerca de US$ 6,5 bilhões esperados. As projeções do Focus foram coletadas até sexta-feira (23), antes da abertura dos mercados desta semana.",
+      "fonte": "InfoMoney (Boletim Focus e estatísticas do setor externo do Banco Central)",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/"
+    },
+    {
+      "id": "2026-10-26-anpd-consulta-fiscalizacao-prazo",
+      "data": "2026-10-26",
+      "publicado": "2026-10-26T10:49:00-03:00",
+      "area": "Proteção de Dados · Regulação",
+      "titulo": "Termina hoje o prazo para empresas opinarem sobre as novas regras de fiscalização e sanção da ANPD",
+      "resumo": "Empresas e entidades têm até esta segunda-feira (26) para enviar sugestões à proposta que reescreve o regulamento de fiscalização e do processo sancionador da Autoridade Nacional de Proteção de Dados. O texto substitui a Resolução CD/ANPD nº 1/2021 e adapta os procedimentos às novas atribuições do órgão, que passou a ser agência reguladora pela Lei 15.352/2026 e ganhou competências sobre o ECA Digital, deveres de plataformas digitais e proteção de mulheres no ambiente on-line. As contribuições são feitas pela plataforma Brasil Participativo; depois, a área técnica consolida a versão final para votação do Conselho Diretor. Para quem trata dados em escala, é a última janela formal para influenciar ritos, prazos e critérios que vão reger futuras autuações.",
+      "fonte": "Autoridade Nacional de Proteção de Dados (ANPD)",
+      "url": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-abre-audiencia-consulta-atualizacao-regulamento-fiscalizacao"
+    },
+    {
+      "id": "2026-10-26-receita-sc-205-icms-difal-creditos",
+      "data": "2026-10-26",
+      "publicado": "2026-10-26T10:49:00-03:00",
+      "area": "Tributação · Contabilidade",
+      "titulo": "Receita nega crédito de PIS/Cofins sobre ICMS-Difal pago pela empresa compradora",
+      "resumo": "Em solução de consulta publicada no Diário Oficial desta segunda-feira (26), a Receita Federal afirmou que o ICMS-Difal recolhido pela própria adquirente ao estado de destino não gera crédito de PIS/Pasep e de Cofins. O texto (Solução de Consulta nº 205, de 22 de outubro) também reafirma que, para fatos a partir de 1º de maio de 2023, o ICMS deve ser obrigatoriamente retirado da base de cálculo dos créditos, admitindo a manutenção apenas para operações até 30 de abril de 2023, conforme as regras da época. O entendimento orienta a fiscalização e exige revisão da apuração de créditos de empresas que compram mercadorias de outros estados.",
+      "fonte": "Atlas Público (Diário Oficial da União)",
+      "url": "https://atlaspublico.com.br/noticias/receita-federal-publica-tres-solucoes-de-consulta-sobre-94640"
+    },
     {
       "id": "2026-10-25-bc-ofertas-credito-pix",
       "data": "2026-10-23",
