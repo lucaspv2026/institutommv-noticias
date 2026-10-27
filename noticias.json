@@ -1,6 +1,46 @@
 {
-  "atualizado_em": "2026-10-26T10:49:00-03:00",
+  "atualizado_em": "2026-10-27T08:02:12-03:00",
   "noticias": [
+    {
+      "id": "2026-10-27-simples-opcao-ibs-cbs-regime-regular",
+      "data": "2026-10-26",
+      "publicado": "2026-10-27T08:02:12-03:00",
+      "area": "Tributação",
+      "titulo": "Empresas do Simples têm até sexta-feira (30) para decidir se recolhem IBS e CBS fora do regime unificado",
+      "resumo": "Termina em 30 de outubro o prazo para que optantes do Simples Nacional escolham pagar o IBS e a CBS pelo regime regular, separadamente da guia única, a partir de janeiro de 2027. A opção é voluntária, feita no Portal de Serviços da Receita Federal, e vale para o primeiro semestre de 2027; quem não se manifestar segue recolhendo os novos tributos dentro do Simples. A escolha pode ser desfeita entre 3 de novembro e 20 de dezembro, e novas janelas abrem em março e setembro de cada ano.",
+      "fonte": "SBT News, com informações da Agência Brasil",
+      "url": "https://sbtnews.sbt.com.br/noticia/economia/reforma-tributaria-escolha-de-modelo-acaba-sexta-30"
+    },
+    {
+      "id": "2026-10-27-balanca-comercial-quarta-semana-outubro",
+      "data": "2026-10-26",
+      "publicado": "2026-10-27T08:02:12-03:00",
+      "area": "Economia · Indústria",
+      "titulo": "Exportações crescem 27,9% em outubro e saldo comercial do ano chega a US$ 69,8 bilhões",
+      "resumo": "O comércio exterior brasileiro acumula superávit de US$ 7,4 bilhões em outubro até a quarta semana, com média diária de exportações 27,9% acima da de outubro de 2025, segundo o MDIC. Só na quarta semana, o país vendeu US$ 8,5 bilhões e comprou US$ 6,8 bilhões, saldo de US$ 1,7 bilhão; no ano, o superávit soma US$ 69,8 bilhões. A indústria extrativa lidera a alta das vendas (+55,9% na média diária), seguida da agropecuária (+18,9%) e da indústria de transformação (+18,4%). As importações sobem 21,1%, puxadas pela transformação, sinal de demanda por insumos e bens de capital.",
+      "fonte": "Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/outubro/superavit-brasileiro-alcanca-us-1-7-bi-na-quarta-semana-de-outubro-de-2026"
+    },
+    {
+      "id": "2026-10-27-cni-construcao-juros-preocupacao",
+      "data": "2026-10-26",
+      "publicado": "2026-10-27T08:02:12-03:00",
+      "area": "Indústria · Economia",
+      "titulo": "Juros altos viram queixa de 40% das construtoras, segundo maior nível desde 2015",
+      "resumo": "O custo do dinheiro é o principal entrave apontado por cerca de 40% dos empresários da construção no terceiro trimestre de 2026, alta de 3,8 pontos percentuais e o segundo maior patamar da Sondagem CNI/CBIC, iniciada em 2015. A carga tributária vem em seguida (31%), à frente da escassez ou do custo da mão de obra não qualificada (29%). O índice de facilidade de acesso ao crédito caiu para 37,9 pontos, e a satisfação com o lucro operacional, para 40,7, o menor nível desde o início de 2021. A intenção de investir subiu para 41,9 pontos, mas é a mais baixa para um mês de outubro desde 2020.",
+      "fonte": "CBIC, com dados da Sondagem Indústria da Construção (CNI/CBIC)",
+      "url": "https://cbic.org.br/cni-preocupacao-com-juros-altos-na-construcao-atinge-o-2o-maior-nivel-da-serie-historica/"
+    },
+    {
+      "id": "2026-10-27-stf-adi-8037-seguradoras-ms",
+      "data": "2026-10-26",
+      "publicado": "2026-10-27T08:02:12-03:00",
+      "area": "Regulação",
+      "titulo": "Seguradoras vão ao STF contra lei de Mato Grosso do Sul que impõe prazo para comunicar recusa de propostas",
+      "resumo": "A CNseg ajuizou a ADI 8037 no Supremo contra a Lei estadual 6.520/2025, de Mato Grosso do Sul, que obriga as seguradoras a comunicar formalmente a recusa de uma proposta em até 25 dias após recebê-la. A norma prevê multas e outras sanções do Código de Defesa do Consumidor em caso de descumprimento. A entidade sustenta que legislar sobre contratos de seguro cabe à União e que o tema já está tratado no Marco Legal dos Contratos de Seguro (Lei 15.040/2024). O relator é o ministro Flávio Dino; o caso interessa a quem atua em setores sujeitos a regras estaduais sobrepostas à legislação federal.",
+      "fonte": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confederacao-questiona-no-stf-lei-que-obriga-seguradoras-a-comunicar-recusa-de-propostas/"
+    },
     {
       "id": "2026-10-26-focus-ipca-selic-2027-contas-externas",
       "data": "2026-10-26",
