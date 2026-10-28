@@ -1,6 +1,26 @@
 {
-  "atualizado_em": "2026-10-27T08:02:12-03:00",
+  "atualizado_em": "2026-10-28T08:03:43-03:00",
   "noticias": [
+    {
+      "id": "2026-10-28-tcu-julga-calculo-aliquota-cbs",
+      "data": "2026-10-28",
+      "publicado": "2026-10-28T08:03:43-03:00",
+      "area": "Tributação",
+      "titulo": "TCU analisa nesta quarta o cálculo da alíquota de referência da CBS, que vale a partir de 2027",
+      "resumo": "O plenário do Tribunal de Contas da União examina hoje, em sessão extraordinária marcada para as 10h30, o cálculo que servirá de base para a alíquota da CBS, tributo federal que substitui PIS e Cofins a partir de janeiro de 2027. O TCU tem até 30 de outubro para enviar os números ao Senado, que precisa fixar a alíquota por resolução até 15 de dezembro; sem isso, prevalece a referência calculada pelo tribunal. A estimativa mais recente do Ministério da Fazenda é de 9,21%, que, somada aos 18,7% estimados para o IBS, levaria a carga combinada a 27,91%, acima do teto de 26,5% previsto para 2033. Na terça (27), o ministro Dario Durigan afirmou que o governo deve enviar ainda nesta semana ao Congresso a medida com as alíquotas do Imposto Seletivo, cuja cobrança começa em 2027.",
+      "fonte": "Metrópoles",
+      "url": "https://metropoles.com/brasil/tcu-aliquota-cbs-nesta-quarta"
+    },
+    {
+      "id": "2026-10-28-cambio-bolsa-apos-segundo-turno",
+      "data": "2026-10-28",
+      "publicado": "2026-10-28T08:03:43-03:00",
+      "area": "Economia · Mercado de Capitais",
+      "titulo": "Dólar devolve parte da alta e fecha a R$ 5,35; Ibovespa cai 0,51% e segue no menor nível desde agosto",
+      "resumo": "Depois do pregão de segunda-feira (26), em que subiu 8,21% e fechou a R$ 5,403 — a maior alta diária desde janeiro de 1999 —, o dólar recuou 1,07% na terça (27) e encerrou a R$ 5,349. O Ibovespa, que havia perdido 13,88% na segunda, com acionamento do circuit breaker, caiu mais 0,51% e terminou em 175.710 pontos. O presidente do Banco Central, Gabriel Galípolo, disse que a autoridade monetária poderá atuar no câmbio se identificar disfuncionalidades no mercado. Para empresas com dívida ou custos em moeda estrangeira, a volatilidade reforça a atenção a proteção cambial e ao custo de captação, enquanto investidores aguardam sinais sobre a política fiscal e a composição da equipe econômica.",
+      "fonte": "Agência Brasil (republicado por BM&C News)",
+      "url": "https://bmcnews.com.br/economia/dolar-cai-quase-1-e-ibovespa-recua-apos-tombo-eleitoral/"
+    },
     {
       "id": "2026-10-27-simples-opcao-ibs-cbs-regime-regular",
       "data": "2026-10-27",
