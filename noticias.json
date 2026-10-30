@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-10-29T08:01:00-03:00",
+  "atualizado_em": "2026-10-30T08:07:22-03:00",
   "noticias": [
+    {
+      "id": "2026-10-30-credito-empresas-setembro-bc",
+      "data": "2026-10-30",
+      "publicado": "2026-10-30T08:07:22-03:00",
+      "area": "Economia · Negócios",
+      "titulo": "Crédito às empresas sobe 1% em setembro, mas juros do crédito livre para pessoa jurídica chegam a 24,4% ao ano",
+      "resumo": "O saldo de crédito destinado a pessoas jurídicas cresceu 1,0% em setembro e 6,5% em doze meses, ritmo inferior ao das famílias (9,9%), segundo estatísticas do Banco Central divulgadas na quinta-feira (29). O estoque total do sistema financeiro atingiu R$ 7,444 trilhões, equivalente a 55,5% do PIB, com expansão anual de 8,6%, abaixo dos 9,4% registrados até agosto. No crédito livre, as concessões às empresas somaram R$ 325,3 bilhões no mês, mas, com ajuste sazonal, as concessões a pessoas jurídicas recuaram 3,4%. O custo segue elevado: a taxa média do crédito livre para empresas ficou em 24,4% ao ano, e a inadimplência total do sistema permaneceu em 5% da carteira.",
+      "fonte": "IstoÉ Dinheiro, com dados do Banco Central",
+      "url": "https://istoedinheiro.com.br/estoque-credito-setembro-2026-banco-central"
+    },
+    {
+      "id": "2026-10-30-governo-central-superavit-setembro",
+      "data": "2026-10-30",
+      "publicado": "2026-10-30T08:07:22-03:00",
+      "area": "Economia",
+      "titulo": "Contas do governo central fecham setembro no azul, com superávit primário de R$ 4,8 bilhões",
+      "resumo": "As contas do Tesouro Nacional, do Banco Central e da Previdência registraram superávit primário de R$ 4,839 bilhões em setembro, informou o Tesouro na quinta-feira (29). Um ano antes, o mesmo mês havia terminado com déficit de R$ 14,379 bilhões. O número veio levemente acima da projeção de R$ 4,650 bilhões apurada pela Reuters com economistas, dado acompanhado pelas empresas por sua influência sobre a percepção de risco fiscal, os juros futuros e o câmbio.",
+      "fonte": "IstoÉ Dinheiro, com dados do Tesouro Nacional",
+      "url": "https://istoedinheiro.com.br/governo-central-superavit-setembro-2026"
+    },
+    {
+      "id": "2026-10-30-igp-m-outubro-desacelera",
+      "data": "2026-10-30",
+      "publicado": "2026-10-30T08:07:22-03:00",
+      "area": "Economia · Agronegócio",
+      "titulo": "IGP-M desacelera para 1,47% em outubro com alívio nos preços agropecuários ao produtor",
+      "resumo": "O IGP-M, índice que corrige muitos contratos de aluguel e de prestação de serviços, subiu 1,47% em outubro, após 1,57% em setembro, segundo a FGV, e acumula 5,24% em doze meses. O resultado ficou abaixo dos 1,59% esperados por analistas consultados pela Reuters. Os preços ao produtor (IPA) avançaram 1,93%, com a alta dos produtos agropecuários recuando de 3,07% para 1,29%, puxada por milho, soja, tomate e batata; os preços ao consumidor (IPC) subiram 0,45%. Na contramão, o custo da construção (INCC) acelerou de 0,25% para 0,35%.",
+      "fonte": "IstoÉ Dinheiro, com dados da FGV Ibre",
+      "url": "https://istoedinheiro.com.br/igp-m-outubro-2026-alta-147"
+    },
     {
       "id": "2026-10-29-tcu-aprova-cbs-11-3",
       "data": "2026-10-29",
