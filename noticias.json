@@ -1,6 +1,26 @@
 {
-  "atualizado_em": "2026-10-30T08:07:22-03:00",
+  "atualizado_em": "2026-10-31T08:06:14-03:00",
   "noticias": [
+    {
+      "id": "2026-10-31-desemprego-5-2-terceiro-trimestre-pnad",
+      "data": "2026-10-31",
+      "publicado": "2026-10-31T08:06:14-03:00",
+      "area": "Economia",
+      "titulo": "Desemprego recua a 5,2% no trimestre até setembro, o menor para o período desde 2012",
+      "resumo": "A taxa de desocupação medida pela PNAD Contínua do IBGE caiu para 5,2% no trimestre encerrado em setembro, o menor nível para um terceiro trimestre na série iniciada em 2012. O índice estava em 5,4% no segundo trimestre e em 5,6% um ano antes. O rendimento médio real chegou a R$ 3.790, alta de 3,6% em doze meses, e a massa de renda somou R$ 387,5 bilhões (+4,7%). Para as empresas, o mercado de trabalho aquecido sustenta o consumo, mas pressiona custos com pessoal e dificulta a contratação.",
+      "fonte": "O Povo (Agência Estado), com dados do IBGE",
+      "url": "https://www.opovo.com.br/noticias/economia/2026/10/30/taxa-de-desemprego-no-brasil-cai-para-52-no-trimestre-ate-setembro-mostra-ibge.html"
+    },
+    {
+      "id": "2026-10-31-ibovespa-queda-semanal-dolar-5-44",
+      "data": "2026-10-31",
+      "publicado": "2026-10-31T08:06:14-03:00",
+      "area": "Mercado de Capitais · Economia",
+      "titulo": "Bolsa perde 18% na semana e dólar sobe 9%, com saída de capital estrangeiro após o segundo turno",
+      "resumo": "O Ibovespa encerrou a semana com recuo de 18,12%, a maior perda semanal desde março de 2020, e fechou a sexta-feira (30) aos 167.921 pontos, em baixa de 0,75%. O dólar subiu 1,09% no dia, para R$ 5,446, maior fechamento de 2026, e acumulou alta de 9,15% na semana. Em outubro, a bolsa cedeu 9,75%. O movimento refletiu a reprecificação de ativos após o resultado eleitoral, com maior aversão a risco e retirada de recursos estrangeiros — fatores que encarecem captações e insumos importados para as empresas.",
+      "fonte": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-30-outubro-2026/"
+    },
     {
       "id": "2026-10-30-credito-empresas-setembro-bc",
       "data": "2026-10-30",
