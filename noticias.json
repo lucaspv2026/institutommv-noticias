@@ -1,6 +1,26 @@
 {
-  "atualizado_em": "2026-10-31T08:06:14-03:00",
+  "atualizado_em": "2026-11-01T08:02:52-03:00",
   "noticias": [
+    {
+      "id": "2026-11-01-transacao-receita-prazo-dezembro",
+      "data": "2026-11-01",
+      "publicado": "2026-11-01T08:02:52-03:00",
+      "area": "Tributação",
+      "titulo": "Empresas com débitos em discussão na Receita ganham até 30 de dezembro para aderir à transação",
+      "resumo": "A Receita Federal adiou de 30 de outubro para 30 de dezembro de 2026 o fim do prazo de adesão às transações dos Editais RFB nº 9 e nº 10, voltados a créditos em contencioso administrativo. A mudança veio pela Portaria RFB nº 742, publicada no Diário Oficial em 29 de outubro, e não altera descontos, parcelas nem requisitos. O Edital 9 alcança disputas de até R$ 50 milhões e admite uso de prejuízo fiscal e base negativa de CSLL; o Edital 10 atende débitos de até 60 salários mínimos de pessoas físicas, MEIs, micro e pequenas empresas. Aderir exige desistir das defesas, o que pede análise prévia de cada processo.",
+      "fonte": "Portal Contábeis",
+      "url": "https://www.contabeis.com.br/noticias/80501/receita-prorroga-adesao-a-transacoes-tributarias-ate-30-de-dezembro/"
+    },
+    {
+      "id": "2026-11-01-mercosul-ue-exportacoes-21",
+      "data": "2026-11-01",
+      "publicado": "2026-11-01T08:02:52-03:00",
+      "area": "Indústria · Agronegócio",
+      "titulo": "Produtos com tarifa reduzida pelo acordo Mercosul-UE vendem 21% mais à Europa nos primeiros cinco meses",
+      "resumo": "As vendas à União Europeia de produtos brasileiros beneficiados pela redução ou eliminação de tarifas cresceram 21% entre maio e setembro de 2026, frente ao mesmo período de 2025, segundo o MDIC. O acordo está em aplicação provisória desde 1º de maio. Entre os destaques estão abacate (+421%), mel (+367%), óleo de milho (+266%), alumínio em bruto (+107%) e etanol (+95,2%), além de transformadores elétricos, que saíram de zero para US$ 39 milhões. Para aproveitar as preferências, exportadores precisam cumprir as regras de origem; o governo reuniu manuais e tabelas no portal Siscomex.",
+      "fonte": "Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/outubro/acordo-mercosul-ue-impulsiona-exportacoes-brasileiras-com-alta-de-ate-421-em-produtos"
+    },
     {
       "id": "2026-11-02-lancamento-curso-compliance-na-pratica",
       "data": "2026-11-02",
