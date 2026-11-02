@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-11-01T08:02:52-03:00",
+  "atualizado_em": "2026-11-02T08:07:54-03:00",
   "noticias": [
+    {
+      "id": "2026-11-02-cbs-senado-audiencias-cae",
+      "data": "2026-11-02",
+      "publicado": "2026-11-02T08:07:54-03:00",
+      "area": "Tributação",
+      "titulo": "Alíquota da CBS entra em debate no Senado em 11 de novembro, com definição prevista até 15 de dezembro",
+      "resumo": "A Comissão de Assuntos Econômicos do Senado abre em 11 de novembro as audiências públicas sobre a alíquota de referência da CBS, tributo federal que ocupará o lugar de PIS e Cofins a partir de janeiro de 2027. O presidente da comissão, Renan Calheiros, informou no sábado (31) que Eduardo Braga será o relator e que convidará o ministro da Fazenda, Dario Durigan, e o presidente do TCU, Vital do Rêgo. O ponto de partida é o percentual calculado pelo tribunal, de 11,3468%, arredondado para 11,3%; a resolução passa pela comissão e pelo plenário, com definição prevista até 15 de dezembro. Se ela não entrar em vigor a tempo, vale provisoriamente o cálculo do TCU, o que dá às empresas um parâmetro para planejar preços e sistemas enquanto os senadores não decidem.",
+      "fonte": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/131089/renan-indica-eduardo-braga-para-relatar-cbs-e-chamara-durigan-a-cae"
+    },
+    {
+      "id": "2026-11-02-nfse-nacional-simples",
+      "data": "2026-11-02",
+      "publicado": "2026-11-02T08:07:54-03:00",
+      "area": "Tributação · Contabilidade",
+      "titulo": "Prestadores de serviços do Simples já devem usar a NFS-e nacional no lugar do sistema da prefeitura",
+      "resumo": "Desde domingo (1º), micro e pequenas empresas do Simples Nacional que prestam serviços precisam emitir a NFS-e pelo padrão nacional, e não mais pelo sistema municipal. A exigência vem da Resolução CGSN nº 191/2026 e alcança também negócios em cidades com plataforma própria; a emissão pode ser feita no portal web ou por integração via API com o sistema de gestão. Como o feriado de Finados caiu na segunda, o impacto tende a aparecer a partir de terça-feira (3), com risco de atraso no faturamento para quem não se adaptou. Ficam fora da mudança o MEI, que já usa o Emissor Nacional, e as empresas que vendem apenas mercadorias.",
+      "fonte": "IstoÉ e Portal Contábeis",
+      "url": "https://istoe.com.br/simples-nacional-novas-regras-notas-fiscais-novembro-2026"
+    },
+    {
+      "id": "2026-11-02-copom-selic-expectativa-manutencao",
+      "data": "2026-11-02",
+      "publicado": "2026-11-02T08:07:54-03:00",
+      "area": "Economia · Negócios",
+      "titulo": "Bancos e opções da B3 indicam Selic parada em 13,75% na decisão do Copom desta quarta (4)",
+      "resumo": "O Copom conclui na quarta-feira (4) a reunião de novembro com expectativa predominante de juros mantidos em 13,75% ao ano, o que pausaria os cortes e prolongaria o crédito caro para as empresas. C6 Bank e Itaú projetam manutenção, e o relatório do Itaú prevê decisão unânime. Nas opções de Copom da B3, com preços de 26 de outubro, a manutenção aparecia com 63,1% de probabilidade, contra 28% para corte de 0,25 ponto e 4,2% para corte de 0,50 ponto. Pesa na avaliação dos analistas a inflação projetada mais alta, que diminui a margem para baixar a taxa.",
+      "fonte": "RIC e BPMoney",
+      "url": "https://ric.com.br/economia/mercado-projeta-manutencao-da-selic-em-1375-apos-reeleicao-de-lula/"
+    },
     {
       "id": "2026-11-01-transacao-receita-prazo-dezembro",
       "data": "2026-11-01",
