@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-11-02T08:07:54-03:00",
+  "atualizado_em": "2026-11-05T19:18:56-03:00",
   "noticias": [
+    {
+      "id": "2026-11-05-copom-selic-1375-pausa",
+      "data": "2026-11-05",
+      "publicado": "2026-11-05T19:18:56-03:00",
+      "area": "Economia · Negócios",
+      "titulo": "Copom interrompe ciclo de cortes e deixa a Selic em 13,75% ao ano",
+      "resumo": "O Banco Central manteve a Selic em 13,75% ao ano na reunião encerrada em 4 de novembro, depois de cinco reduções seguidas desde abril. O colegiado citou incertezas maiores nas últimas semanas, expectativas de inflação ainda acima da meta, o agravamento da guerra no Oriente Médio, o início do El Niño e a instabilidade do câmbio. Parte do mercado esperava corte de 0,25 ponto, e outra parte já apostava na manutenção. Sem indicação sobre os próximos passos, empresas que dependem de crédito devem planejar captações e renegociações com o custo atual por mais tempo.",
+      "fonte": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/copom-surpreende-mercado-e-mantem-selic-em-1375-ao-ano"
+    },
+    {
+      "id": "2026-11-05-producao-industrial-setembro-ibge",
+      "data": "2026-11-05",
+      "publicado": "2026-11-05T19:18:56-03:00",
+      "area": "Indústria · Economia",
+      "titulo": "Indústria recua 0,8% em setembro e tem a maior queda anual desde março de 2024",
+      "resumo": "A produção industrial brasileira caiu 0,8% em setembro frente a agosto e 2,5% na comparação com setembro de 2025, segundo o IBGE. O recuo anual alcançou 18 dos 25 ramos pesquisados, com destaque para alimentos (-5,9%), máquinas e equipamentos (-8,9%) e farmacêuticos (-17%). No ano, a alta acumulada é de apenas 0,4%, e bens de capital perdem 5%, sinal de menor investimento das empresas em máquinas e capacidade produtiva. Veículos (+6,2%) e extrativas (+5,9%) sustentam o resultado de 2026.",
+      "fonte": "Jornal GGN, com dados do IBGE",
+      "url": "https://jornalggn.com.br/economia/industria-brasileira-recua-setembro-2026-ibge/"
+    },
+    {
+      "id": "2026-11-05-cra-pl-290-regularizacao-ambiental",
+      "data": "2026-11-05",
+      "publicado": "2026-11-05T19:18:56-03:00",
+      "area": "Agronegócio · Regulação",
+      "titulo": "Comissão do Senado aprova suspensão de embargos a produtor que aderir à regularização ambiental",
+      "resumo": "A Comissão de Agricultura do Senado aprovou em 4 de novembro o PL 290/2025, que suspende embargos e outras sanções ambientais a partir do pedido de adesão ao Programa de Regularização Ambiental (PRA). Em caso de inconsistência no Cadastro Ambiental Rural, o produtor será notificado e terá 60 dias para corrigir, e o descumprimento das regras ou do cronograma reativa as sanções. O texto também prevê rito simplificado para imóveis de até quatro módulos fiscais e credenciamento de empresas para analisar cadastros, mantendo a validação final com o órgão ambiental. A proposta, que ainda não é lei, segue para a Comissão de Meio Ambiente.",
+      "fonte": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cra-aprova-flexibilizacao-da-regularizacao-ambiental-de-produtores-rurais"
+    },
     {
       "id": "2026-11-02-cbs-senado-audiencias-cae",
       "data": "2026-11-02",
