@@ -1,6 +1,46 @@
 {
-  "atualizado_em": "2026-11-05T19:18:56-03:00",
+  "atualizado_em": "2026-11-06T08:00:56-03:00",
   "noticias": [
+    {
+      "id": "2026-11-06-imposto-seletivo-mp-1399",
+      "data": "2026-11-06",
+      "publicado": "2026-11-06T08:00:56-03:00",
+      "area": "Tributação · Indústria",
+      "titulo": "MP 1.399 regulamenta o Imposto Seletivo, com cobrança a partir de 2 de fevereiro de 2027",
+      "resumo": "O governo editou em 4 de novembro a Medida Provisória 1.399/2026, que fixa as regras de transição do Imposto Seletivo e marca o início da cobrança para 2 de fevereiro de 2027, por causa da noventena. Serão alcançados cigarros, bebidas alcoólicas e açucaradas, automóveis, aeronaves, embarcações, apostas e a extração de certos minérios; petróleo, gás, carvão e minério de ferro terão alíquota zero ao longo de 2027, e caminhões a partir de 3,5 toneladas ficam fora. As regras valem até 31 de dezembro de 2027, e o Executivo deve enviar ao Congresso até 31 de maio de 2027 o projeto com as alíquotas definitivas, previstas para 2028. A arrecadação estimada no orçamento de 2027 é de cerca de R$ 41,9 bilhões, e a MP ainda precisa ser votada pelo Congresso.",
+      "fonte": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/131328/imposto-do-pecado--saiba-o-que-sera-taxado-e-quando-comeca-a-valer"
+    },
+    {
+      "id": "2026-11-06-cni-revisao-aliquota-cbs",
+      "data": "2026-11-06",
+      "publicado": "2026-11-06T08:00:56-03:00",
+      "area": "Tributação · Indústria",
+      "titulo": "Indústria pede ao Senado que revise a CBS de 11,3% e alerta para risco de alta da carga tributária",
+      "resumo": "A CNI pediu que o Senado reveja a alíquota de referência de 11,3% da CBS calculada pelo TCU, por entender que o número pode elevar a tributação sobre o consumo. A entidade questiona a base de 2012 a 2021, quando PIS e Cofins ainda incidiam sobre ICMS e ISS, além das premissas de queda da sonegação e de arrecadação do Imposto Seletivo. O estudo do TCU chega formalmente à CAE em 10 de novembro, e o Senado tem até 15 de dezembro para editar a resolução; sem ela, vale o cálculo do tribunal. A CNI também pediu aos ministérios da Fazenda e do MDIC que o período de testes da CBS se estenda por todo o ano de 2027.",
+      "fonte": "Portal Contábeis",
+      "url": "https://www.contabeis.com.br/noticias/80614/cni-questiona-cbs-de-11-3-e-pede-revisao-ao-senado/"
+    },
+    {
+      "id": "2026-11-06-farsul-renegociacao-dividas-rurais-rs",
+      "data": "2026-11-06",
+      "publicado": "2026-11-06T08:00:56-03:00",
+      "area": "Agronegócio",
+      "titulo": "No RS, renegociação pela MP 1.376 alcança só 17,4% das dívidas rurais problemáticas, aponta Farsul",
+      "resumo": "Levantamento da Farsul divulgado em 5 de novembro mostra que as renegociações de dívidas rurais no Rio Grande do Sul somam R$ 7,78 bilhões, apenas 17,4% da carteira problemática do estado. A MP 1.376/2026, que abriu a renegociação, perde a validade em menos de uma semana, deixando 82,6% do passivo sem solução pelas operações registradas. A contratação de crédito rural caiu 10,56% entre julho e setembro, trimestre decisivo para o custeio da safra de verão.",
+      "fonte": "Jornal do Comércio",
+      "url": "https://www.jornaldocomercio.com/agro/2026/11/1269451-renegociacao-deixa-826-das-dividas-problematicas-de-fora-no-rs.html"
+    },
+    {
+      "id": "2026-11-06-dolar-548-ibovespa-pos-copom",
+      "data": "2026-11-06",
+      "publicado": "2026-11-06T08:00:56-03:00",
+      "area": "Economia · Mercado de Capitais",
+      "titulo": "Dia seguinte ao Copom: dólar sobe a R$ 5,49 e Ibovespa perde 0,82%",
+      "resumo": "O mercado reagiu com cautela à manutenção da Selic em 13,75%: em 5 de novembro, o dólar avançou 0,67%, para R$ 5,4876, e o Ibovespa fechou em 166.191 pontos, queda de 0,82%. No comunicado, o Banco Central destacou expectativas de inflação piores e cenário de alta incerteza. A alta do petróleo, com o Brent perto de US$ 98, também pressionou o câmbio, enquanto Vale subiu com o minério no maior nível em um mês.",
+      "fonte": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-5-novembro-2026/"
+    },
     {
       "id": "2026-11-05-copom-selic-1375-pausa",
       "data": "2026-11-05",
