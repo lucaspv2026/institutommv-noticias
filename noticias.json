@@ -1,6 +1,26 @@
 {
-  "atualizado_em": "2026-11-06T08:00:56-03:00",
+  "atualizado_em": "2026-11-07T08:01:00-03:00",
   "noticias": [
+    {
+      "id": "2026-11-07-balanca-comercial-outubro-recorde",
+      "data": "2026-11-07",
+      "publicado": "2026-11-07T08:01:00-03:00",
+      "area": "Indústria · Economia",
+      "titulo": "Exportações crescem 20% e balança comercial tem saldo recorde de US$ 9,3 bilhões em outubro",
+      "resumo": "O Brasil vendeu ao exterior US$ 9,32 bilhões a mais do que comprou em outubro, o melhor resultado para o mês desde o início da série do MDIC, em 1989. As exportações somaram US$ 31,51 bilhões, com forte avanço da indústria extrativa (+53,5%, puxada pelo petróleo), enquanto a indústria de transformação cresceu 7,7% e a agropecuária, 12,8%; as importações subiram 14,8%. No ano, o superávit chega a US$ 71,04 bilhões, mas o governo reduziu a projeção para 2026 de US$ 90 bilhões para US$ 84,4 bilhões.",
+      "fonte": "Agência Brasil (dados do MDIC)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/balanca-comercial-tem-maior-superavit-para-outubro-desde-1989"
+    },
+    {
+      "id": "2026-11-07-entidades-pedem-adiar-cbs-seletivo-2028",
+      "data": "2026-11-07",
+      "publicado": "2026-11-07T08:01:00-03:00",
+      "area": "Tributação · Negócios",
+      "titulo": "Carta aberta ao Congresso pede que cobrança da CBS e do Imposto Seletivo comece só em 2028",
+      "resumo": "Entidades empresariais e jurídicas enviaram ao Congresso carta aberta pedindo que a cobrança efetiva da CBS e do Imposto Seletivo seja adiada de 2027 para 1º de janeiro de 2028, ficando o próximo ano reservado a adaptação e testes. O documento aponta que a indefinição das regras pesa sobre precificação, fluxo de caixa, importações, licitações e contratos em curso, e propõe que o tema seja discutido junto com a PEC 22/2026, apresentada pelo Executivo em 5 de novembro. O pedido chega enquanto o Senado tem até 15 de dezembro para fixar a alíquota da CBS, que o TCU calculou em 11,3%.",
+      "fonte": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/11/7534535-reforma-tributaria-entidades-pedem-adiamento-das-cobrancas-para-2028.html"
+    },
     {
       "id": "2026-11-06-imposto-seletivo-mp-1399",
       "data": "2026-11-06",
